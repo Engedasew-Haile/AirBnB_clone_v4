@@ -75,3 +75,6 @@ Repo:
 
 GitHub repository: AirBnB_clone_v4
 Directory: web_dynamic
+
+author of the project
+	Engedasew Haile
